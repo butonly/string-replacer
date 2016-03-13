@@ -1,6 +1,6 @@
 {
-  "name": "string-replace",
-  "version": "1.0.0",
+  "name": "string-replacer",
+  "version": "1.0.1",
   "description": "sync/async string replace",
   "main": "lib/index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/liuyanjie/string-replace.git"
+    "url": "git+ssh://git@github.com/liuyanjie/string-replacer.git"
   },
   "keywords": [
     "string-replace"
@@ -19,7 +19,7 @@
   "author": "liuyanjie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liuyanjie/string-replace/issues"
+    "url": "https://github.com/liuyanjie/string-replacer/issues"
   },
-  "homepage": "https://github.com/liuyanjie/string-replace#readme"
+  "homepage": "https://github.com/liuyanjie/string-replacer#readme"
 }
