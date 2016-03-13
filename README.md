@@ -1,4 +1,4 @@
-string-splicer
+string-replacer
 ===============
 
 
