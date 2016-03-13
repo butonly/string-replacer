@@ -1,0 +1,25 @@
+{
+  "name": "string-replace",
+  "version": "1.0.0",
+  "description": "sync/async string replace",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liuyanjie/string-replace.git"
+  },
+  "keywords": [
+    "string-replace"
+  ],
+  "author": "liuyanjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuyanjie/string-replace/issues"
+  },
+  "homepage": "https://github.com/liuyanjie/string-replace#readme"
+}
