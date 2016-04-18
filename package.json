@@ -1,6 +1,6 @@
 {
   "name": "string-replacer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sync/async string replace",
   "main": "lib/index.js",
   "directories": {
